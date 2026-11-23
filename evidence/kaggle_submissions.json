@@ -1,0 +1,50 @@
+{
+  "as_of": "2026-11-23",
+  "account": "yuriimuktarov",
+  "evidence_source": "Authenticated Kaggle CLI on authorized MeAnDeR workstation",
+  "notebook_records_total_paginated": 316,
+  "notebook_records_distinct_refs": 312,
+  "notebooks_public_only": false,
+  "datasets_listed": 13,
+  "submissions": [
+    {
+      "competition": "arc-prize-2026-arc-agi-2",
+      "submission_id": 56162536,
+      "public_score": 28.61,
+      "status": "COMPLETE",
+      "submitted": "2026-09-11"
+    },
+    {
+      "competition": "arc-prize-2026-arc-agi-3",
+      "submission_id": 57322706,
+      "public_score": 28.15,
+      "status": "COMPLETE",
+      "submitted": "2026-10-17"
+    },
+    {
+      "competition": "gemma-4-developer-agent",
+      "submission_id": 58341417,
+      "public_score": 0.13,
+      "status": "COMPLETE",
+      "submitted": "2026-11-14"
+    },
+    {
+      "competition": "gemma-4-developer-agent",
+      "submission_id": 58673177,
+      "public_score": 0.15,
+      "status": "COMPLETE",
+      "submitted": "2026-11-21"
+    }
+  ],
+  "gemma_public_score_relative_increase_pct": 15.384615384615385,
+  "not_verified": [
+    "medals",
+    "prizes",
+    "final_private_scores",
+    "final_rank",
+    "V8_new_resolved_tasks",
+    "public_access_to_all_notebooks"
+  ],
+  "qualification_arc3": "28.15 is a frozen Franzen A0 baseline submission, not a proven C-AGI improvement",
+  "public_claims": "public scores only, not private scores or final ranks"
+}
