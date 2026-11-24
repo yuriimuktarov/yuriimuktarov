@@ -1,4 +1,15 @@
-# Yurii Muktarov — AI Agent Developer & LLM Researcher
+# Yurii Muktarov — Applied AI Engineer & Autonomous Agent Developer
+
+**AI Agents · Business Automation · Verifiable Data Auditing · Reproducible Engineering**
+
+## Featured Projects
+
+### EvidenceDesk — Verifiable Business Data Auditing
+
+A private commercial pilot that checks spreadsheet-based business claims, generates reproducible audit evidence and supports independent verification. Explore two synthetic workbooks and compare the reported counts with the underlying rows.
+
+[Project repository](https://github.com/yuriimuktarov/evidencedesk-showcase) · [Interactive demonstration](https://yuriimuktarov.github.io/evidencedesk-showcase/)
+
 
 **Autonomous software engineering · LLM agents · Reasoning systems · Reproducible evaluation**
 
